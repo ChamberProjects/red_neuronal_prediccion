@@ -4,7 +4,6 @@ Spyder Editor
 This is a temporary script file.
 """
 
-#IBM Model
 #import library
 import pandas as pds
 from sklearn.neural_network import MLPRegressor
